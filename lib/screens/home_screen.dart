@@ -31,7 +31,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Pet Care App'),
+        title: Text('Katalog Hewan Peliharaan'),
         elevation: 2,
       ),
       body: Column(
@@ -223,3 +223,4 @@ class PetCard extends StatelessWidget {
     }
   }
 }
+//final

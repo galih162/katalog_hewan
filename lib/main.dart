@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Pet Care App',
+      title: 'Katalog Hewan Peliharaan',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         fontFamily: 'Roboto',
@@ -19,3 +19,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+//final

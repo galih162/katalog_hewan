@@ -53,7 +53,7 @@ class DetailScreen extends StatelessWidget {
                         end: Alignment.bottomCenter,
                         colors: [
                           Colors.transparent,
-                          Colors.black.withOpacity(0.7),
+                          Colors.white.withOpacity(0.7),
                         ],
                       ),
                     ),
@@ -250,3 +250,4 @@ class DetailScreen extends StatelessWidget {
     }
   }
 }
+//final
