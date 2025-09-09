@@ -219,7 +219,7 @@ class PetCard extends StatelessWidget {
       case 'marmut':
         return Colors.purple;
       default:
-        return Colors.grey;
+        return Colors.red;
     }
   }
 }

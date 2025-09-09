@@ -52,11 +52,11 @@ class PetData {
     ),
     Pet(
       id: '7',
-      name: 'Dogi',
-      type: 'Anjing',
-      imageUrl: 'https://images.unsplash.com/photo-1505628346881-b72b27e84530?w=400',
-      characteristics: 'Dogi adalah anjing pemburu yang ramah dan penuh energi. Mereka memiliki indera penciuman yang tajam, suka bermain, dan baik dengan keluarga.',
-      careTips: 'Latihan fisik minimal 1 jam per hari. Awasi saat makan karena cenderung rakus. Bersihkan telinga secara rutin untuk mencegah infeksi.',
+      name: 'Ducky',
+      type: 'Bebek',
+      imageUrl: 'https://tse4.mm.bing.net/th/id/OIP.6NNLaWOTuyjuXwk3AuWQlQHaE7?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3',
+      characteristics: 'Ducky adalah bebek yang ramah dan penuh energi. Mereka memiliki bulu yang putih, suka bermain di lumpur, makanan kesukahan mereka adalah sayuran hijau dan serangga kecil.',
+      careTips: 'Beri makan setiap hari. jaga kebersihan kandang. Bersihkan kotoran untuk mencegah dari bakteri jahat.',
     ),
     Pet(
       id: '8',
